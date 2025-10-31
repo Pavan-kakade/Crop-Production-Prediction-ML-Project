@@ -108,4 +108,4 @@ Machine Learning Intern — Universal Cloud Tech (UCT)
 ---
 
 ## 🪴 Acknowledgment
-Special thanks to **Universal Cloud Tech (UCT)** for providing mentorship and support throughout this internship project.
+Special thanks to **UniConverge Technology pvt.Ltd (UCT)** for providing mentorship and support throughout this internship project.
